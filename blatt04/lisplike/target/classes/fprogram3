@@ -1,0 +1,6 @@
+(def x 4)
+(if (< x 5)
+    (do (print "A)(print "X"))
+    (do (print "B")(print "Y")))
+(defn hello (n) (str "hello " n))
+(print(hello "Dietmar"))

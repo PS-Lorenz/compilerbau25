@@ -1,0 +1,22 @@
+public enum Token {
+    ID,
+    OP,
+    DEF,
+    DEFN,
+    LET,
+    IF,
+    DO,
+    LIST,
+    HEAD,
+    TAIL,
+    NTH,
+    STR,
+    PRINT,
+    LBRAK,
+    RBRAK,
+    BOOL,
+    NUMBER,
+    STRING,
+    COMMENT,
+    EOF
+}

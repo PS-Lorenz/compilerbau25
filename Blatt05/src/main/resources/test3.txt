@@ -1,0 +1,21 @@
+while (1 < 2){
+    int z = 3;
+    string s = "string";
+    if (z != s){
+        int a = 5*7/3+1;
+        int z = a - z;
+        }
+    else {
+        a(5);
+        b(6);
+        }
+    bool frage(int o,string w){
+        int c = o * 7;
+        int c = 3;
+        if (c < 3){
+            return true;
+        } else {
+            return false;
+        }
+    }
+}

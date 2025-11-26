@@ -1,0 +1,18 @@
+int a = 2+3;
+while (a == 5){
+    string v = "v";
+    if (v != "l"){
+        a = a*7;
+        question(4);
+        question(10);
+        bool question (int x){
+            if (x < a){
+                return true;
+            } else {
+                return false;
+            }
+        }
+
+
+    }
+}
